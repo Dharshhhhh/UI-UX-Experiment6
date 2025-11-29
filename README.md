@@ -36,9 +36,11 @@ Key algorithms summary
 Open AIM_AND_ALGORITHM.md to review. It explains the project's objectives and algorithmic approach.
 
 ## Output:
-<img width="1918" height="1136" alt="image" src="https://github.com/user-attachments/assets/187ee3d5-b600-4e58-8006-563402af34ea" />
-<img width="1918" height="1133" alt="image" src="https://github.com/user-attachments/assets/97112a6d-c81a-4b54-8f13-377a55abc179" />
-<img width="1918" height="1137" alt="image" src="https://github.com/user-attachments/assets/6a9cfaba-e138-46ec-9bf5-90624d1a09db" />
+<img width="1918" height="1135" alt="image" src="https://github.com/user-attachments/assets/b22496a5-a4c4-47f2-94a2-5f2cfb373930" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4421d2d3-a42c-4f75-b1c7-5411b81b5a23" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/80337d4a-d199-445d-9346-326fad6656fe" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b729fe8e-8bc4-4907-a10a-6c8b20109797" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/13304240-3567-4630-a4bc-70bb1bde4c1b" />
 
 
 ## Result:
